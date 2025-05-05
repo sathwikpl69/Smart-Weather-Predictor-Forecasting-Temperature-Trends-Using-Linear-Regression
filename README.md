@@ -1,0 +1,1 @@
+# Smart-Weather-Predictor-Forecasting-Temperature-Trends-Using-Linear-Regression
